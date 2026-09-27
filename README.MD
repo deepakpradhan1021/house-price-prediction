@@ -35,3 +35,5 @@ A machine learning project that predicts house prices using the House Prices dat
 ## Conclusion
 
 The Random Forest model achieved an R² score of approximately 0.89, indicating that the model explains a substantial portion of the variation in house prices.
+
+Dataset: [Kaggle House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
