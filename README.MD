@@ -7,9 +7,10 @@
 [![Streamlit](https://img.shields.io/badge/Web%20App-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Scikit-Learn](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Data%20Analysis-Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Project-Live%20Demo-brightgreen)](https://house-price-prediction-isncgvvwk89mvcahtd33rr.streamlit.app/)
 
-[Live Demo](https://house-price-prediction-isncgvvwk89mvcahtd33rr.streamlit.app/) • [About This Project](#-about-this-project) • [Key Features](#-key-features) • [Model & Results](#-model-architecture--results) • [How to Run](#-how-to-run-locally) • [What I Learned](#-key-learnings--takeaways) • [Future Improvements](#-future-improvements)
+[Live Demo](https://house-price-prediction-isncgvvwk89mvcahtd33rr.streamlit.app/) • [About This Project](#-about-this-project) • [Key Features](#-key-features) • [Model & Results](#-model-architecture--results) • [How to Run](#-how-to-run-locally) • [License](#-license) • [What I Learned](#-key-learnings--takeaways)
 
 </div>
 
@@ -138,6 +139,10 @@ Open your browser at **`http://localhost:8501`**.
 - [ ] Incorporate interactive price distribution maps using Folium or PyDeck.
 - [ ] Experiment with XGBoost and CatBoost for improved performance on categorical locations.
 - [ ] Add mortgage and EMI calculation estimates based on current interest rates.
+
+## 📜 License
+
+This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
